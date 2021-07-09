@@ -1,0 +1,6 @@
+{
+    "editor.tabCompletion": "on",
+    "terminal.integrated.shell.windows": "C:/Program Files/Git/bin/bash.exe",
+    // "gnuGlobal.globalExecutable": "C:/GNUGlobal/bin/global.exe",
+    // "gnuGlobal.gtagsExecutable": "C:/GNUGlobal/bin/gtags.exe",
+}
