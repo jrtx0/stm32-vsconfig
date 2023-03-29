@@ -1,2 +1,2 @@
 # vsconfig
-personal customize vscode configuration.
+customized vscode configuration.
