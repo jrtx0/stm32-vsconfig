@@ -1,2 +1,2 @@
-# stm32-vsconfig
-customized vs code configuration.
+# vscodeconfig-template-stm32
+a vscode configuration template for stm32
